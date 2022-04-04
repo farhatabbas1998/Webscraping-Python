@@ -1,6 +1,3 @@
-pip install openpyxl
-pip install googlesearch-python
-pip install pandas
 #packages
 from openpyxl import load_workbook
 from googlesearch import search
